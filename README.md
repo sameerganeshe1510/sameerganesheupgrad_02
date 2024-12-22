@@ -34,7 +34,8 @@ Developed as part of the Machine Learning 1 Module required for Post Graduate Di
   #### Pandas version 2.2.2
   #### NumPy version 1.26.4
   #### Seaborn version: 0.13.2
-  #### Datetime version: Builtin Module, no version
+  #### sklearn version: 1.4.2
+  #### statsmodel version: 0.14.2
   #### Warnings Module: Builtin Module, no version
 
 ## Contributor
